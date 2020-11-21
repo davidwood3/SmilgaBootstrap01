@@ -1,0 +1,27 @@
+body {
+  font-family: Arvo;
+}
+
+.height {
+  min-height: 100vh;
+}
+
+.about-picture {
+  background: url(../img/about-bcg.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.about-text-center {}
+
+.title-underline {
+  width: 200px;
+  height: 10px;
+  margin: 0 auto;
+}
+
+.height-80 {
+  min-height: 80vh;
+}

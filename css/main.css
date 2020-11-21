@@ -25,3 +25,7 @@ body {
 .height-80 {
   min-height: 80vh;
 }
+
+#filler {
+  background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .9)), url(../img/projects-1.jpeg)center/cover no-repeat fixed;
+}

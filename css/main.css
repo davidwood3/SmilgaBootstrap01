@@ -14,9 +14,7 @@ body {
   background-attachment: fixed;
 }
 
-.about-text-center {}
-
-.title-underline {
+title-underline {
   width: 200px;
   height: 10px;
   margin: 0 auto;
@@ -26,6 +24,7 @@ body {
   min-height: 80vh;
 }
 
-#filler {
+#filler,
+#progress {
   background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .9)), url(../img/projects-1.jpeg)center/cover no-repeat fixed;
 }
